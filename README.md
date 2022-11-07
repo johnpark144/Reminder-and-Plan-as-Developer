@@ -67,6 +67,8 @@ Date of upload :
 - pandas : 나도코딩꺼 데이터분석, 10시간짜리, 5시간짜리
 
 - Redux
+- graphql
+- aws
 - ReactNative
 - NextJS (13버전나오면)
 
