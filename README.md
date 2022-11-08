@@ -25,6 +25,7 @@
 여전히 싼것같은 쇼핑사이트라서
 
 ■ stillsteal 어려웠던점:
+1. 장바구니 기능 구현중 Local storage를 사용하는데 새로고침 할때 마다 정보가 
 
 ■ 정보:
 Creater : Yeonghwan Park (John Park)
