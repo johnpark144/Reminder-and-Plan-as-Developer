@@ -85,7 +85,7 @@ Date of upload :
 - NextJS (13버전나오면)
 
 - 자료구조 알고리즘
-
+ㅡ 면접대비
 
 # 보충공부 해야 할것 (짜투리시간 계획) -> 
 - 장고 : 다대다, 일대일, form, 로그인, 가입, restful Api, authentication, authorization,
