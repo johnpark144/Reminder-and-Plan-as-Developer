@@ -38,6 +38,22 @@ Date of debugging : Nov 16th
 Date of upload : 
 
 ■ 기능:
+Responsive Website
+Login, Logout, Signup (you can also use without login)
+TokenRefresh with JSON Web Token
+Navigation bar and Navigation side bar
+Search
+Past-searchlist (Login -> Local Storage / Non-login -> Backend Server)
+Add to cart, subtract from cart in Realtime (Login -> Local Storage / Non-login -> Backend Server)
+See cart in Product detail, Checkout, Cart in deferent form
+Pagenation
+Number of posts to display per page
+Sort by category
+Product detail
+Checkout
+Image Animation and design (About Us)
+Spinner Loading until Datas is found (despite no any data)
+
 ■ 해야할것: 
 - 기능들 다 적기
 - 동영상찍고 깃허브 올리기
