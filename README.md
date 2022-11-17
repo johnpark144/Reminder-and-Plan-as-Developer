@@ -33,8 +33,8 @@ Creater : Yeonghwan Park (John Park)
 Main Tools : React(프론트), Django(백엔드, restframework)
 Sub Tools : Html, CSS(Tailwind CSS), MySql
 Explantion : 
-Date of creation : Nov 4th ~ 
-Date of debugging : 
+Date of creation : Nov 4th ~ Nov 15th
+Date of debugging : Nov 16th
 Date of upload : 
 
 ■ 기능:
