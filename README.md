@@ -34,17 +34,17 @@ Main Tools : React(프론트), Django(백엔드, restframework)
 Sub Tools : Html, CSS(Tailwind CSS), MySql
 Explantion : 
 Date of creation : Nov 4th ~ Nov 15th
-Date of debugging : Nov 16th
+Date of debugging : Nov 16th ~
 Date of upload : 
 
 ■ 기능:
 Responsive Website
 Login, Logout, Signup (you can also use without login)
-TokenRefresh with JSON Web Token
+TokenRefresh with JWT
 Navigation bar and Navigation side bar
-Search
-Past-searchlist (Login -> Local Storage / Non-login -> Backend Server)
 Add to cart, subtract from cart in Realtime (Login -> Local Storage / Non-login -> Backend Server)
+Search
+Past-searchlist (Local Storage)
 See cart in Product detail, Checkout, Cart in deferent form
 Pagenation
 Number of posts to display per page
@@ -54,8 +54,27 @@ Checkout
 Image Animation and design (About Us)
 Spinner Loading until Datas is found (despite no any data)
 
+■ 사진찍기: 
+장고 어드민(토큰 강조), Api, 카테고리, 디테일, 카트
+
+
+■ 동영상 찍기:
+
+홈전체 보여주고, 홈 카테고리 하나씩 들어가보기 -> 카테고리 전체 들어가보며 페이지 개수 바꿔보기 -> 페이지 하나하나 눌러보기 -> 화살표
+
+페이지마다 디테일 -> 뒤로가기 ->페이지 개수 바꿔서 디테일 ->뒤로가기 -> 카테고리도 들어가서 디테일 -> 뒤로가기 -> 다른 카테고리 페이지 개수 바꾸고 페이지도 바꿔서 디테일
+
+카테고리에서 있는거 검색 -> 홈에서도 있는거 검색 -> 스피너 강조 -> 홈에서 없는거 검색 -> 홈에있는거 다시검색하여 검색어 다시올라오는거 보여줌 -> 지난검색어확인 -> 새로고침 -> 히스토리 지우기
+
+로그인후 카트비우기 -> 홈에서 카트 -> 더해진거 보여주고 -> 카테고리에서 더카트에더함 -> 디테일에서도 카트더해지는거 보여줌 -> 카트에서 추가해보고 제거도 해봄
+
+로그아웃후 카트 더하고 -> 확인 -> 다시로그인 다시 할떄 기존 정보 저장되있는거 보여줌 -> 어바웃어스 사진 흘러가는거 살짝보여주고 끝
+
+반응형 홈 ->  카테고리 (지난검색어들 보여주며) ->  깔짝대보기 -> 디테일(티모바일 카드 열어놓고) -> 느리게 깔짝대보기 -> 카트 -> 깔짝대보기 -> 체크아웃 -> 깔짝대보기 -> 어바웃어스 -> 느리게 스크롤해가면서 깔짝대보기
+
+
+
 ■ 해야할것: 
-- 기능들 다 적기
 - 동영상찍고 깃허브 올리기
 
 ########################################################################
