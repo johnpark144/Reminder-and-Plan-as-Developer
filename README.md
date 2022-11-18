@@ -49,6 +49,7 @@ See cart in Product detail, Checkout, Cart in deferent form
 Pagenation
 Number of posts to display per page
 Sort by category
+Sort by (복잡한 옵션들 설명)
 Product detail
 Checkout
 Image Animation and design (About Us)
