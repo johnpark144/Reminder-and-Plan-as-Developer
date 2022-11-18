@@ -55,7 +55,7 @@ Image Animation and design (About Us)
 Spinner Loading until Datas is found (despite no any data)
 
 ■ 사진찍기: 
-장고 어드민(토큰 강조), Api, 카테고리, 디테일, 카트
+장고 어드민(토큰 강조), Api, MYsql, 카테고리, 디테일, 카트
 
 
 ■ 동영상 찍기:
