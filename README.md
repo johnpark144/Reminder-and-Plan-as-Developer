@@ -1,4 +1,4 @@
-# 1) 페이스북 프로젝트
+###### 1) 페이스북 프로젝트
 
 ■ 페이스북 어려웠던점: (그림을 포함하자)
 1. 좋아요기능을 수행하면서 모델을 자주 수정하여 시행착오를 겪고 그가운데 모델 migrate이 잘 작동되지 않아 데이터를 자주 삭제하기를 반복했던점,
@@ -11,7 +11,7 @@
 ■ 페이스북 보완할점: 
 코드정리, 주석 영어문법체크, 콘솔로그 지우기
 
-# 2) myabc 프로젝트
+###### 2) myabc 프로젝트
 ■ 이름을 그렇게 지은이유
 
 ■ myabc 어려웠던점: (그림을 포함하자)
@@ -19,8 +19,8 @@
 2. x를 누를때 Delete할건지 다시 물어보는 모달이 생성되면서 usestate가 작동되어
 그 모달에서 확인누르면 항상 마지막 usestate된 id값이 입력되어 삭제됨
 
-#########################################################################
-# 3) stillsteal 프로젝트
+
+###### 3) stillsteal 프로젝트
 ■ 이름을 그렇게 지은이유:
 여전히 싼것같은 쇼핑사이트라서
 
@@ -29,60 +29,7 @@
 2. 작은기능을 구현하기위해 큰기능보다 훨씬 더 많은 코드를 요구할떄
 
 
-■ 정보:
-Creater : Yeonghwan Park (John Park)
-Main Tools : React(프론트), Django(백엔드, restframework)
-Sub Tools : Html, CSS(Tailwind CSS), MySql
-Explantion : 
-Date of creation : Nov 4th ~ Nov 15th
-Date of debugging : Nov 16th ~
-Date of upload : 
-
-■ 기능:
-Responsive Website
-Login, Logout, Signup (you can also use without login)
-TokenRefresh with JWT
-Navigation bar and Navigation side bar
-Add to cart, subtract from cart in Realtime (Login -> Local Storage / Non-login -> Backend Server)
-Search
-Past-searchlist (Local Storage)
-See cart in Product detail, Checkout, Cart in deferent form
-Pagination
-Number of posts to display per page
-1 Sort by category
-2 Sort by Price(lowest), Price(highest), Name(ASC), Name(DESC), Rate
-3 Sort only less than certain price
-possible with Sort by 1, 2, 3 together 
-Product detail
-Checkout
-Image Animation and design (About Us)
-Spinner Loading until Datas is found (despite no any data)
-
-■ 사진찍기: 
-장고 어드민(토큰 강조), Api, MYsql, 카테고리, 디테일, 카트
-
-
-■ 동영상 찍기:
-
-(카테고리, 페이지네이션)홈전체 보여주고, 홈 카테고리 하나씩 들어가보기 -> 카테고리 전체 들어가보며 페이지 개수 바꿔보기 -> 페이지 하나하나 눌러보기 -> 화살표
-
-(sortby) 가격높은거, 가격변경, 이름오름차순, 페이지수 변경 2 디테일 그리고 뒤로, Rate센거 디테일봄
-
-(검색)카테고리에서 있는거 검색 -> 홈에서도 있는거 검색 -> 스피너 강조 -> 홈에서 없는거 검색 -> 홈에있는거 다시검색하여 검색어 다시올라오는거 보여줌 -> 지난검색어확인 -> 새로고침 -> 히스토리 지우기
-
-(카트)로그인후 카트비우기 -> 홈에서 카트 -> 더해진거 보여주고 -> 카테고리에서 더카트에더함 -> 디테일에서도 카트더해지는거 보여줌 -> 카트에서 추가해보고 제거도 해봄
-
-(로그아웃카트)로그아웃후 카트 더하고 -> 확인 -> 다시로그인 다시 할떄 기존 정보 저장되있는거 보여줌 -> 어바웃어스 사진 흘러가는거 살짝보여주고 끝
-
-반응형 홈 ->  카테고리 (지난검색어들 보여주며) ->  깔짝대보기 -> 디테일(티모바일 카드 열어놓고) -> 느리게 깔짝대보기 -> 카트 -> 깔짝대보기 -> 체크아웃 -> 깔짝대보기 -> 어바웃어스 -> 느리게 스크롤해가면서 깔짝대보기
-
-
-
-■ 해야할것: 
-- 동영상찍고 깃허브 올리기
-
 ########################################################################
-
 
 
 
