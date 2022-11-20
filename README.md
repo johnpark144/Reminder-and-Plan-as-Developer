@@ -48,6 +48,8 @@
 - MBTI 성격테스트,
 - 자주쓰는 패턴 깃허브에 모아두기
 - study 디파지토리 정리 (이름, 리액트 다른거 업로드 등) 
+- Redux
+- React Query
 
 
 # 봐야할 강좌들 (모아논 강좌)
@@ -71,7 +73,7 @@
 
 # 보충공부 해야 할것 (짜투리시간 계획) -> 
 - 장고 : 다대다, 일대일, form, 로그인, 가입, restful Api, authentication, authorization,
-- 자바스크립트, 리액트 : 리듀스, 리덕스, axios, React query, for문대신함수, 프로토타입, 호이스팅, 스코프, 클러저,
+- 자바스크립트, 리액트 : 리듀스, 리덕스, Material UI, axios, React query, for문대신함수, 프로토타입, 호이스팅, 스코프, 클러저,
 컬백, 프로미스, 어싱크어웨이트, this, new, 세션 쿠키 스토리지 저장하고 사용하기 응용
 
 - html, css : px vh em 등 차이알기
