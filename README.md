@@ -50,6 +50,9 @@
 - study 디파지토리 정리 (이름, 리액트 다른거 업로드 등) 
 - Redux
 - React Query
+- TypeScript
+- NextJS
+- Reactnative
 
 
 # 봐야할 강좌들 (모아논 강좌)
