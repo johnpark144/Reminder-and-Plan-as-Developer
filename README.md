@@ -55,6 +55,7 @@
 - Redux
 - React Query
 - TypeScript
+- 스타일컴포넌트, 머티리얼ui
 - NextJS
 - Reactnative
 
