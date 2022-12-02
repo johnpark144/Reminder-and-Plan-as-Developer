@@ -57,7 +57,8 @@
 - 스타일컴포넌트, 머티리얼ui
 - NextJS
 - Reactnative
-
+- 깃 자세히
+- threejs
 
 
 # 봐야할 강좌들 (모아논 강좌)
