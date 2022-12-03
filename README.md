@@ -51,6 +51,7 @@
 - 각종게임 사이트 : 자음게임, 틱택토, 성격테스트,
 - 좋은 홈페이지 포트폴리오 (장고, 리액트, mysql)
 - 넷플, 아마존, 우버, 에어비엔비 클론코딩, 챗봇, 자동크롤링 사이트, mbti
+- 각종 애니메이션 효과 사이트 연습
 - Redux
 - React Query
 - TypeScript
@@ -59,23 +60,8 @@
 - Reactnative
 - 깃 자세히
 - threejs
-
-
-# 봐야할 강좌들 (모아논 강좌)
-- html, css, js: 
-- django:
-- sql :
-
-- react, django 같이 : todoapp, 7시간강좌, notesapp
-
-- python기본 : intermediate강좌, 중급코딩예제, 파이썬 함수책공부
-- pandas : 나도코딩꺼 데이터분석, 10시간짜리, 5시간짜리
-
-- Redux
 - graphql
 - aws
-- ReactNative
-- NextJS (13버전나오면)
 
 - 자료구조 알고리즘
 ㅡ 면접대비
@@ -88,7 +74,7 @@
 - html, css : px vh em 등 차이알기
 
 
-# 구현 해봐야할 기능들 : 야간모드, 언어 바꾸기
+# 구현 해봐야할 기능들 : 야간모드, 언어 바꾸기, 뮤직플레이어
 
 
 
