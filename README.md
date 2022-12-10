@@ -51,7 +51,7 @@
 - 지금까지 만들어논거 보고 쓸만한 잡패턴들과 유용한거 한곳에 모아정리하기
 - CSS BEM 방법론알아두고 정리하기 (클래스 이름 지정방법)
 
-- 유튜브 클론 (연습 : Redux, React Query, TypeScript, axios, 야간모드, React-icons, React-beautiful-dnd)
+- 유튜브 클론 (연습 : Nextjs, Redux, React Query, TypeScript, axios, 야간모드, React-icons, React-beautiful-dnd)
 
 - 각종 애니메이션 효과 사이트 연습
 - 지금까지 공부한거 코드패턴 사전 사이트
