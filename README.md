@@ -60,7 +60,7 @@
 - 좋은 홈페이지 포트폴리오 (장고, 리액트, mysql)
 - 넷플, 아마존, 우버, 에어비엔비 클론코딩, 챗봇, 자동크롤링 사이트, mbti
 
-- TypeScript
+
 - NextJS
 - Reactnative
 - 스타일컴포넌트, 머티리얼ui
