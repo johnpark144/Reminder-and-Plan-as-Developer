@@ -60,7 +60,7 @@
 - 넷플, 아마존, 우버, 에어비엔비 클론코딩, 챗봇, 자동크롤링 사이트, mbti
 
 
-- NextJS
+- NextJS (Image component)
 - Reactnative
 - 스타일컴포넌트, 머티리얼ui
 - 깃 자세히
