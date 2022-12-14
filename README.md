@@ -40,7 +40,8 @@
 ######################################################################
 
 # 앞으로 계획 (구체적 계획)
-- React-beautiful-dnd 사용법정리
+- Nextjs 영화Api 연습한거 nextjs 13방식으로 변경
+- reactquary usemutation 다시정리하기 (post, delete)
 - Framer Motion 배우기
 - 유용한 ES7 React/Redux/GraphQL/React-Native snippets 약자 적어두기
 - 배포방법 정리, 인터뷰 공부할거 정리
