@@ -40,26 +40,25 @@
 ######################################################################
 
 # 앞으로 계획 (구체적 계획)
-- Nextjs 영화Api 연습한거 nextjs 13방식으로 변경
+- 튜토리얼 정리
 - reactquary usemutation 다시정리하기 (post, delete)
-- Framer Motion 배우기
 - 유용한 ES7 React/Redux/GraphQL/React-Native snippets 약자 적어두기
 - 배포방법 정리, 인터뷰 공부할거 정리
-- study 디파지토리 정리 (이름, 리액트 다른거 업로드 등) 
 - 프로젝트와 연습한것들 Basicstudy readme에 주요 라이브러리, 구현내용 및 설명들을 요약해서
 한페이징에 배열형식으로 정리해서 적어두기(라이브러리 및 툴)
-- 지금까지 만들어논거 보고 쓸만한 잡패턴들과 유용한거 한곳에 모아정리하기
 - CSS BEM 방법론알아두고 정리하기 (클래스 이름 지정방법)
 
 - 유튜브 클론 (연습 : Nextjs, Redux, React Query, TypeScript, axios, 야간모드, React-icons, React-beautiful-dnd)
 
 - 각종 애니메이션 효과 사이트 연습
+
 - 지금까지 공부한거 코드패턴 사전 사이트
 
 - 각종게임 사이트 : 자음게임, 틱택토, 성격테스트,
 - 좋은 홈페이지 포트폴리오 (장고, 리액트, mysql)
 - 넷플, 아마존, 우버, 에어비엔비 클론코딩, 챗봇, 자동크롤링 사이트, mbti
 
+- 쓸만한 API 및 라이브러리 (Framer Motion, Mapbox, Calendar Date Picker )
 
 - NextJS (Image component)
 - Reactnative
