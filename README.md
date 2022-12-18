@@ -52,7 +52,7 @@
 - 프로젝트와 연습한것들 Basicstudy readme에 주요 라이브러리, 구현내용 및 설명들을 요약해서
 한페이징에 배열형식으로 정리해서 적어두기(라이브러리 및 툴)
 
-- CSS BEM 방법론알아두고 정리하기 (클래스 이름 지정방법)
+- CSS BEM 방법론 (클래스 이름 지정방법)
 
 - 유튜브 클론 (연습 : Nextjs, Redux, React Query, TypeScript, axios, 야간모드, React-icons, React-beautiful-dnd)
 
