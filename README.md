@@ -77,8 +77,8 @@
 
 # 보충공부 해야 할것 (짜투리시간 계획) -> 
 - 장고 : 다대다, 일대일, form, 로그인, 가입, restful Api, authentication, authorization,
-- 자바스크립트, 리액트 : 리듀스, 리덕스, Material UI, axios, React query, for문대신함수, 프로토타입, 호이스팅, 스코프, 클러저,
-컬백, 프로미스, 어싱크어웨이트, this, new, 세션 쿠키 스토리지 저장하고 사용하기 응용
+- 자바스크립트, 리액트, NEXTJS : 리듀스, 리덕스, Material UI, axios, React query, for문대신함수, 프로토타입, 호이스팅, 스코프, 클러저,
+컬백, 프로미스, 어싱크어웨이트, this, new, 세션 쿠키 스토리지 저장하고 사용하기 응용, JWT토큰, 여러 라이브러리
 
 - html, css : px vh em 등 차이알기
 
