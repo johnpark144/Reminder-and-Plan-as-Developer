@@ -3,7 +3,7 @@
 
 - 쓸만한 API 및 라이브러리 (Framer Motion, Mapbox, Calendar Date Picker, Dark Mode, notion Api )
 
-- 유튜브 클론 (연습 : Nextjs, Redux, React Query, TypeScript, axios, 야간모드, React-icons, React-beautiful-dnd)
+- 유튜브 클론 (연습 : Redux, 야간모드, React-beautiful-dnd)
 
 - 각종 애니메이션 효과 사이트 연습
 
