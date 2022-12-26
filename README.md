@@ -39,11 +39,12 @@
 - 넷플, 우버, 챗봇, 자동크롤링 사이트, mbti, 각종게임 사이트 : 자음게임, 틱택토, 성격테스트
 - 지금까지 공부한거 코드패턴 사전 사이트
 
+- jest(testing)
 - Reactnative
 - 스타일컴포넌트, 머티리얼ui
 - 깃 자세히
 - threejs
-- graphql
+- graphql(apollo)
 - aws
 
 - 자료구조 알고리즘
