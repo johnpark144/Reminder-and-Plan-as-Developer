@@ -1,5 +1,6 @@
 # Mytube 해야될거 남은거
-- watchlater 드래그앤드롭기능 (React-beautiful-dnd)
+- 히스토리 오류 수정
+- watchlater 드래그앤드롭 양쪽다 있는 동영상 오류 수정
 - watchlater 페이지 꾸미기
 - see watch later 버튼 꾸미기
 - detail에서 watch later 저장
