@@ -20,8 +20,6 @@
 
 - 쓸만한 API 및 라이브러리 (Framer Motion, Mapbox, Calendar Date Picker, Dark Mode, notion Api )
 
-- 유튜브 클론 (연습 : 야간모드, React-beautiful-dnd)
-
 - 에어비엔비 같은 사이트(예약사이트)
 
 - 각종 애니메이션 효과 사이트 연습
