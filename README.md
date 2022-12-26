@@ -1,17 +1,18 @@
 # Mytube 해야될거 남은거
-- 히스토리 오류 수정
+
 - watchlater 드래그앤드롭 양쪽다 있는 동영상 오류 수정
 - watchlater 페이지 꾸미기
 - see watch later 버튼 꾸미기
 - detail에서 watch later 저장
+- 비디오 디테일에 오른쪽부분에 데이터 array 랜덤으로 동영상정렬
+- 비디오 디테일에 show more 링크는 새로운탭으로
+
 - 비디오 썸네일 마우스 hover했을때 미리보기
 - 비디오 썸네일 마우스 focus될때 효과주기
 - Home페이지 꾸미기
 
 - video, history를 링크로 바꿀수있는지 해보기
 - 야간모드
-- 비디오 디테일에 오른쪽부분에 데이터 array 랜덤으로 동영상정렬
-- 비디오 디테일에 show more 링크는 새로운탭으로
 - 404, error, loading, head 꾸미기
 - 반응형
 
