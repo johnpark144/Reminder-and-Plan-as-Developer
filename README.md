@@ -1,6 +1,5 @@
 # Mytube 해야될거 남은거
 
-- watchlater 페이지 꾸미기
 - 비디오 디테일에  watch later 저장
 - 비디오 디테일에 오른쪽부분에 데이터 array 랜덤으로 동영상정렬
 - 비디오 디테일에 show more 링크는 새로운탭으로
