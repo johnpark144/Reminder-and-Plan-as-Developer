@@ -1,6 +1,5 @@
 # Mytube 해야될거 남은거
 
-- 비디오 디테일에  watch later 저장
 - 채널정보 꾸미기
 
 - 데이터들 props대신 redux형식으로
