@@ -1,6 +1,7 @@
 # Mytube 해야될거 남은거
 
 - Home페이지 꾸미기
+(애니메이션, 화살표, 글씨)
 
 - 야간모드
 - 404, error, loading, head 꾸미기
