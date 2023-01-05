@@ -1,5 +1,4 @@
 # Mytube 해야될거 남은거
-- history 비우기
 - 비디오에 메뉴 누를때마다 옆에 글씨 같이나오게 (nextjs video, music video etc...)
 - 검색했을때 채널정보 에러 지우기
 - 비디오 데이터 불러오는양 추가
