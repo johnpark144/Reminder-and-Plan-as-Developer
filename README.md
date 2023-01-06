@@ -16,7 +16,7 @@
 # 앞으로 계획
 - 깃허브에 쓸만한거 링크 저장
 
-- 쓸만한 API 및 라이브러리 (Framer Motion, Mapbox, Calendar Date Picker, Sanity, notion Api )
+- 쓸만한 API 및 라이브러리 (Framer Motion, Mapbox, Calendar Date Picker, Sanity, notion Api, react hook form)
 
 - 에어비엔비 같은 사이트(예약사이트)
 
