@@ -1,10 +1,14 @@
 # Mytube 해야될거 남은거
 - 리덕스화
 
+- 깃허브 올리기
 - 동영상 찍기
 - 배포
+
 - nextjs13, tailwindcss, 타입스크립트, 리액트쿼리, 리덕스toolkit, react-beautiful-dnd, lodash debounce(타이머 전 취소), react-timeago, next-themes(다크모드),
 - youtube rapidApi(비디오관련데이터, 채널정보), regular youtube api(일반비디오데이터들)(api 회수 제한 분산)
+
+
 #####################################################################
 #####################################################################
 # 앞으로 계획
