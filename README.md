@@ -1,9 +1,9 @@
 # 앞으로 계획
 - 깃허브에 쓸만한거 링크 저장
 
-- 쓸만한 API 및 라이브러리 (Framer Motion, Mapbox, Calendar Date Picker, Sanity, notion Api, react hook form)
+- 쓸만한 API 및 라이브러리 (Framer Motion, Sanity, notion Api, react hook form)
 
-- 미용실 예약 사이트 : Calendar Date Picker사용
+- 미용실 예약 사이트 : Calendar Date Picker, 지도
 
 - 각종 애니메이션 효과 사이트 연습
 
@@ -20,10 +20,10 @@
 - 넷플, 우버, 챗봇(chatGPT),자동크롤링 사이트, mbti, 각종게임 사이트 : 자음게임, 틱택토, 성격테스트
 - 지금까지 공부한거 코드패턴 사전 사이트
 
+- 깃 자세히
 - jest(testing)
 - Reactnative
 - 스타일컴포넌트, 머티리얼ui
-- 깃 자세히
 - threejs
 - graphql(apollo)
 - aws
@@ -41,7 +41,6 @@
 
 
 # 구현 해봐야할 기능들 : 언어 바꾸기, 뮤직플레이어
-
 
 # 지금까지한것
 : 파이썬기초, 파이게임, 크롤링(BS4), 웹자동화(셀리니움,requests), 자동화(엑셀,데스크톱),
