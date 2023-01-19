@@ -1,5 +1,4 @@
 # DoorToDoor 해야할것
-- 타입 정리
 - 주석 영어로
 - import 정리
 
