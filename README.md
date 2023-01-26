@@ -34,8 +34,9 @@
 - Reactnative
 - 스타일컴포넌트, 머티리얼ui
 - SVG 그리기
-- Gsap
+- Gsap (scroll)
 - threejs
+- blender render script
 - graphql(apollo)
 - aws
 
