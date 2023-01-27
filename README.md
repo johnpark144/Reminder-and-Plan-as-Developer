@@ -1,4 +1,5 @@
 - 이메일체크, 차
+(사용해서 만들것 : Framer Motion, Sanity, Email, Animate.css, loader, 실시간기능, next auth)
 
 # 앞으로 계획
 - 포트폴리오 유튜브 동영상 참고해서 사이트
@@ -10,7 +11,7 @@
 - 깃허브에 쓸만한거 링크 저장
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-- 쓸만한 API 및 라이브러리 (Framer Motion, Sanity, notion Api, Gsap, react hook form)
+- 쓸만한 API 및 라이브러리 ( Sanity, notion Api,Gsap scroll, react hook form, threejs, blender)
 
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
 
