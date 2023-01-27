@@ -1,5 +1,5 @@
 - 이메일체크, 차
-(사용해서 만들것 : Framer Motion, Sanity, Email, Animate.css, loader, 실시간기능, next auth)
+(사용해서 만들것 : Framer Motion, Sanity, Email, Animate.css, loader, 실시간기능, next auth, react-hook-form)
 
 # 앞으로 계획
 - 포트폴리오 유튜브 동영상 참고해서 사이트
