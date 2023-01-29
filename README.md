@@ -1,5 +1,5 @@
 - 이메일체크, 차
-(사용해서 만들것 : Framer Motion, Sanity, Email, Animate.css, loader, 실시간기능, next auth, react-hook-form)
+(나중에 사용해서 만들것 : Framer Motion, Sanity, Email, Animate.css, loader, 실시간기능, next auth, react-hook-form)
 
 # 앞으로 계획
 - 포트폴리오 유튜브 동영상 참고해서 사이트
@@ -15,22 +15,14 @@
 
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
 
-- 각종 애니메이션 효과 사이트 연습
-
-- 유용한 ES7 React/Redux/GraphQL/React-Native snippets 약자 적어두기
-
 - 배포방법 정리, 인터뷰 공부할거 정리
 
 - 프로젝트와 연습한것들 Basicstudy readme에 주요 라이브러리, 구현내용 및 설명들을 요약해서
 한페이징에 배열형식으로 정리해서 적어두기(라이브러리 및 툴)
 
-- CSS BEM 방법론 (클래스 이름 지정방법)
-
-- 좋은 홈페이지 포트폴리오 (장고, 리액트, mysql)
 - 넷플, 우버, 챗봇(chatGPT),자동크롤링 사이트, mbti, 각종게임 사이트 : 자음게임, 틱택토, 성격테스트
 - 지금까지 공부한거 코드패턴 사전 사이트
 
-- 인터뷰 질문 정리 및 공부
 - 깃 자세히
 - jest(testing)
 - Reactnative
@@ -45,7 +37,6 @@
 - node깊게 공부 + express
 
 - 자료구조 알고리즘
-ㅡ 면접대비
 
 
 # 보충공부 해야 할것 (짜투리시간 계획) -> 
