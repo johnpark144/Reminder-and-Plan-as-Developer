@@ -3,8 +3,10 @@
 react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
 # 앞으로 계획
-- 포트폴리오 유튜브 동영상 참고해서 사이트
-- 포폴유튜브에서 배운거 깃허브에 저장
+
+- mytube, doortodoor 사이트 문제 해결하기
+- Gather all Before organized.ts 파일 정리
+
 - 포폴 사이트 좋은기능들 다엮어 만들기
 - 포폴들 코드 스마트폰보면서 재점검 및 쓸만했던 코드 깃허브 요약해 올리고 재 배포
 - 깃허브 점검 수정, 이력서 수정
@@ -12,14 +14,15 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 - 깃허브에 쓸만한거 링크 저장
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-- 쓸만한 API 및 라이브러리 ( Sanity, notion Api,Gsap scroll,  threejs)
+- 쓸만한 API 및 라이브러리 ( Sanity, notion Api, Gsap scroll,  threejs)
 
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
 
 - 배포방법 정리, 인터뷰 공부할거 정리
 
-- 프로젝트와 연습한것들 Basicstudy readme에 주요 라이브러리, 구현내용 및 설명들을 요약해서
-한페이징에 배열형식으로 정리해서 적어두기(라이브러리 및 툴)
+- 프로젝트와 연습한것들 Basicstudy readme에 주요 라이브러리, 구현내용 및 설명들을 요약해서 한페이지에 배열형식으로 정리해서 적어두기(라이브러리 및 툴)
+
+- 기존에 있는 basicstudy 파일들 요약해서 사용하기 좋게 바꾸기
 
 - 넷플, 우버, 챗봇(chatGPT),자동크롤링 사이트, mbti, 각종게임 사이트 : 자음게임, 틱택토, 성격테스트
 - 지금까지 공부한거 코드패턴 사전 사이트
