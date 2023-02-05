@@ -4,7 +4,7 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
 # 앞으로 계획
 
-- mytube, doortodoor 사이트 문제 해결하기
+- stillsteal, MYabc 모바일모드 사이즈 조정
 - Gather all Before organized.ts 파일 정리
 
 - 포폴 사이트 좋은기능들 다엮어 만들기
