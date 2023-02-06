@@ -2,6 +2,7 @@
 (나중에 사용해서 만들것 : Framer Motion, Email, Animate.css, loader, 실시간기능, next auth, react-hook-form, styled-components,
 react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
 
 - stillsteal, MYabc 모바일모드 사이즈 조정
@@ -14,13 +15,15 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 - 깃허브에 쓸만한거 링크 저장
 - 인터뷰준비 및 코테준비 및 공부
 - Meta 프론트엔드 인증서
+- jest(testing)
+- Reactnative, graphql 같이 강의 듣고 깃허브 정리
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+# 앞으로 계획 예비
+
 - 쓸만한 API 및 라이브러리 ( Sanity, notion Api, Gsap scroll,  threejs)
 
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
-
-- 배포방법 정리, 인터뷰 공부할거 정리
 
 - 프로젝트와 연습한것들 Basicstudy readme에 주요 라이브러리, 구현내용 및 설명들을 요약해서 한페이지에 배열형식으로 정리해서 적어두기(라이브러리 및 툴)
 
@@ -44,7 +47,7 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
 - 자료구조 알고리즘
 
-
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 보충공부 해야 할것 (짜투리시간 계획) -> 
 - 장고 : 다대다, 일대일, form, 로그인, 가입, restful Api, authentication, authorization,
 - 자바스크립트, 리액트, NEXTJS : 리듀스, 리덕스, Material UI, axios, React query, for문대신함수, 프로토타입, 호이스팅, 스코프, 클러저,
