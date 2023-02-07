@@ -5,7 +5,6 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
 
-- MYabc 모바일모드 사이즈 조정
 - Gather all Before organized.ts 파일 정리
 
 - 포폴 사이트 좋은기능들 다엮어 만들기
