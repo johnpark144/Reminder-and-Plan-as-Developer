@@ -5,7 +5,7 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
 
-- stillsteal, MYabc 모바일모드 사이즈 조정
+- MYabc 모바일모드 사이즈 조정
 - Gather all Before organized.ts 파일 정리
 
 - 포폴 사이트 좋은기능들 다엮어 만들기
@@ -17,6 +17,7 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 - Meta 프론트엔드 인증서
 - jest(testing)
 - Reactnative, graphql 같이 강의 듣고 깃허브 정리
+- 차트라이브러리 공부
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획 예비
