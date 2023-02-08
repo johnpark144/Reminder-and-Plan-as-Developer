@@ -14,6 +14,8 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 - 깃허브에 쓸만한거 링크 저장
 - 인터뷰준비 및 코테준비 및 공부
 - Meta 프론트엔드 인증서
+- IBM Full Stack Software Developer
+- HARVARD CS50
 - jest(testing)
 - Reactnative, graphql 같이 강의 듣고 깃허브 정리
 - 차트라이브러리 공부
@@ -21,7 +23,7 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획 예비
 
-- 쓸만한 API 및 라이브러리 ( Sanity, notion Api, Gsap scroll,  threejs)
+- 쓸만한 API 및 라이브러리 ( RelaxJS, scrollOut, Sanity, notion Api, Gsap scroll,  threejs)
 
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
 
