@@ -2,6 +2,31 @@
 (나중에 사용해서 만들것 : RelaxJS, ScrollOut, Framer Motion, Email, Animate.css, loader, 실시간기능, next auth, react-hook-form, styled-components,
 react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
+
+---- 포트폴리오 계획사이트 ---------------------------
+
+Yeonghwan's Portfolio
+
+0 컨셉 : my Path
+
+0 순서  // 처음 effect -> 남색공이 왼쪽에서 튀어나와 가운데서 갑자기 커지기 // 전체 effect -> 스크롤 내릴떄마다 1자로 그림그리기 (공부해온 순서 그리기, work부분 점표시)
+- intro (내사진, 인사말) // effect -> 원형커지다 원래상태로 오는 효과, 그안에 Yeonghwan's Portfolio (SVG그리기), 마우스 움직일때마다 별들 움직이게하기, 달(토티플레이어)
+
+- about me (자기소개, 교육, 어떻게 공부해왔는지, 자기어필) // effect -> 자기소개 문자하나씩 애니메이션, 아이폰문구처럼 밑으로 내려가게 하기
+
+- 구름과 비행기(토티) 효과
+
+- my work : 1 ~ 6 한칸당 두 포트폴리오 (사이트주소(없으면 block), 코드링크, 어필하고자 하는 간단한 설명)
+
+- skill 및 certificate // effect -> 두개큐프 세로로 // 3D등장
+
+- 동영상모음 // effect -> 아이폰동영상 처럼 // 스크롤내릴떄마다 글자조금씩 움직이게
+
+- email // effect -> emailjs, react-hook-form 사용, react-simple-typewriter로 마지막 인사말 //  아이폰 물감터지는 동영상넣기 // 3D움직일수 있게
+
+- 땅에 안착 (framer모션으로 물건 드래그 가능하게)
+
+
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
 
