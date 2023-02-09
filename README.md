@@ -5,14 +5,14 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
 
-- Gather all Before organized.ts 파일 정리
-
 - 포폴 사이트 좋은기능들 다엮어 만들기
 - 포폴들 코드 스마트폰보면서 재점검 및 쓸만했던 코드 깃허브 요약해 올리고 재 배포
 - 깃허브 점검 수정, 이력서 수정
 - 깃 공부하기
 - 깃허브에 쓸만한거 링크 저장
 - 인터뷰준비 및 코테준비 및 공부
+
+- Gather all Before organized.ts 파일 정리
 
 - Meta 프론트엔드 인증서
 - IBM Full Stack Software Developer
