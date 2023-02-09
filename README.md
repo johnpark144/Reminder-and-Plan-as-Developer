@@ -6,7 +6,6 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 # 앞으로 계획
 
 - 포폴 사이트 좋은기능들 다엮어 만들기
-- 포폴들 코드 스마트폰보면서 재점검 및 쓸만했던 코드 깃허브 요약해 올리고 재 배포
 - 깃허브 점검 수정, 이력서 수정
 - 깃 공부하기
 - 깃허브에 쓸만한거 링크 저장
