@@ -13,11 +13,16 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 - 깃 공부하기
 - 깃허브에 쓸만한거 링크 저장
 - 인터뷰준비 및 코테준비 및 공부
+
 - Meta 프론트엔드 인증서
 - IBM Full Stack Software Developer
 - HARVARD CS50
-- jest(testing)
+
+- jest(testing) - 유튜브, 유데미
+- Reactnative - 유데미, 코세라
+- graphql - 유튜브
 - Reactnative, graphql 같이 강의 듣고 깃허브 정리
+
 - 차트라이브러리 공부
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
@@ -34,16 +39,12 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 - 넷플, 우버, 챗봇(chatGPT),자동크롤링 사이트, mbti, 각종게임 사이트 : 자음게임, 틱택토, 성격테스트
 - 지금까지 공부한거 코드패턴 사전 사이트
 
-- 깃 자세히
-- jest(testing)
-- Reactnative
 - 스타일컴포넌트, 머티리얼ui
 - SVG 그리기
 - nextjs api만들기
 - Gsap (scroll)
 - threejs
 - blender render script
-- graphql(apollo)
 - aws
 - node깊게 공부 + express
 
