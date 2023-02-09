@@ -1,5 +1,5 @@
 - 이메일체크, 차
-(나중에 사용해서 만들것 : Framer Motion, Email, Animate.css, loader, 실시간기능, next auth, react-hook-form, styled-components,
+(나중에 사용해서 만들것 : RelaxJS, Framer Motion, Email, Animate.css, loader, 실시간기능, next auth, react-hook-form, styled-components,
 react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
