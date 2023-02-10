@@ -8,6 +8,12 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 Yeonghwan's Portfolio
 
 0 컨셉 : my Path
+Html, C, CS from high school, collage -> Python -> Python(각종라이브러리) (목표없이해멤) -> Django -> Html, Css 기본, 부트스트랩 -> Jquery(JS보다 먼저배움)-> Django 채팅메시지
+ 페북클론 프로젝트(CRUD, ORM, MVC형식(MTV) 배움, 웹 쪽으로 마음을 잡음) -> Css 애니메이션 -> JS -> JS Dom -> 리액트(여러강의, 우연히 파이어베이스를 알게됨) -> MYabc 프로젝트 
+(파이어베이스로 CRUD, Oauth, 각종 API사용법 배움), tailwind CSS알게됨 -> Django rest framework -> SQL쿼리 (mysql) -> 토큰 -> stillsteal 프로젝트 (장고 백엔드연동, 
+ContextAPI, 로컬스토리지, map, filter, foreach, reduce 익숙해짐, 상태관리 필요성을 느낌,  ) ->
+
+
 
 0 순서  // 처음 effect -> 남색공이 왼쪽에서 튀어나와 가운데서 갑자기 커지기 // 전체 effect -> 스크롤 내릴떄마다 1자로 그림그리기 (공부해온 순서 그리기, work부분 점표시)
 - intro (내사진, 인사말) // effect -> 원형커지다 원래상태로 오는 효과, 그안에 Yeonghwan's Portfolio (SVG그리기), 마우스 움직일때마다 별들 움직이게하기, 달(토티플레이어)
