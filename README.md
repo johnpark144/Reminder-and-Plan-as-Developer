@@ -8,12 +8,13 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 Yeonghwan's Portfolio
 
 0 컨셉 : my Path
-Html, C, CS from high school, collage -> Python -> Python(각종라이브러리) (목표없이해멤) -> Django -> Html, Css 기본, 부트스트랩 -> Jquery(JS보다 먼저배움)-> Django 채팅메시지
- 페북클론 프로젝트(CRUD, ORM, MVC형식(MTV) 배움, 웹 쪽으로 마음을 잡음) -> Css 애니메이션 -> JS -> JS Dom -> 리액트(여러강의, 우연히 파이어베이스를 알게됨) -> MYabc 프로젝트 
-(파이어베이스로 CRUD, Oauth, 각종 API사용법 배움), tailwind CSS알게됨 -> Django rest framework -> SQL쿼리 (mysql) -> 토큰 -> stillsteal 프로젝트 (장고 백엔드연동, 
+Html, C, CS from high school, collage -> Python -> Python(각종라이브러리) (목표없이해멤) -> Django -> Html, Css 기본, 부트스트랩 -> Jquery(JS보다 먼저배움) -> Django 채팅메시지 -> 
+깃으로 깃허브에 올리는법만 배움 -> 페북클론 프로젝트(CRUD, ORM, MVC형식(MTV) 배움, 웹 쪽으로 마음을 잡음) -> Css 애니메이션 -> JS -> JS Dom -> 리액트(여러강의, 우연히 파이어베이스를 알게됨) -> MYabc 프로젝트 
+(만들고싶어했던 아이디어, 파이어베이스로 CRUD, Oauth, 각종 API사용법 배움), tailwind CSS알게됨 -> Django rest framework -> SQL쿼리 (mysql) -> 토큰 -> stillsteal 프로젝트 (장고 백엔드연동, 
 ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해짐, 상태관리와 서버 데이터 처리의 필요성을 느낌) -> Deploy (파이썬애니웨어, Netflify) -> Redux, ReduxTK -> React Query 
 -> 타입스크립트(박스끌어옮기는 라이브러리 배우게됨) -> NextJS 13 (SSR, 다크모드도 배우게됨) -> MYtube 프로젝트(Nextjs,유튜브API에 익숙,박스끌어넣기, tailwind만사용) -> 맵, 달력 라이브러리
--> DoorToDoor 프로젝트
+-> DoorToDoor 프로젝트 (만들고싶어했던 아이디어) -> 각종 useful 라이브러리(애니메이션, 스크롤, 3D 필요한것만 배움) -> 포트폴리오사이트
+앞으로 계획 (테스팅, 리액트네이티브, 자료구조알고리즘, graphql, AWS...)
 
 
 
