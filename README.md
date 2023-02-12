@@ -3,7 +3,7 @@
 react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
 
----- 포트폴리오 계획사이트 ---------------------------
+---- 포트폴리오 계획사이트 ----------------------
 
 Yeonghwan's Portfolio
 
