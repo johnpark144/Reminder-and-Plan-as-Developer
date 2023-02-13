@@ -21,13 +21,13 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 0 순서
 - intro (내사진)
 
-- about me (자기소개, 교육, 어떻게 공부해왔는지, 자기어필) // effect -> 아이폰문구처럼 밑으로 내려가게 하기
+ // effect -> 
 
 - 구름과 비행기(토티) 효과
 
 - my work : 1 ~ 6 한칸당 두 포트폴리오 (사이트주소(없으면 block), 코드링크, 어필하고자 하는 간단한 설명)
 
-- skill 및 certificate // effect -> 두개큐프 세로로 // 3D등장
+- skill 및 certificate // effect -> 두개큐프 세로로 // 3D등장 // 아이폰문구처럼 밑으로 내려가게 하기
 
 - 동영상모음 // effect -> 아이폰동영상 처럼 // 스크롤내릴떄마다 글자조금씩 움직이게
 
