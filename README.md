@@ -19,9 +19,9 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 
 
 0 순서
-- intro (내사진, 인사말) // effect -> 원형커지다 원래상태로 오는 효과, 그안에 Yeonghwan's Portfolio (SVG그리기)
+- intro (내사진)
 
-- about me (자기소개, 교육, 어떻게 공부해왔는지, 자기어필) // effect -> 자기소개 문자하나씩 애니메이션, 아이폰문구처럼 밑으로 내려가게 하기
+- about me (자기소개, 교육, 어떻게 공부해왔는지, 자기어필) // effect -> 원형커지다 원래상태로 오는 효과, 아이폰문구처럼 밑으로 내려가게 하기
 
 - 구름과 비행기(토티) 효과
 
@@ -31,7 +31,7 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 
 - 동영상모음 // effect -> 아이폰동영상 처럼 // 스크롤내릴떄마다 글자조금씩 움직이게
 
-- email // effect -> emailjs, react-hook-form 사용, react-simple-typewriter로 마지막 인사말 //  아이폰 물감터지는 동영상넣기 // 3D움직일수 있게
+- email // effect -> emailjs, react-hook-form 사용, react-simple-typewriter로 마지막 인사말 //  아이폰 물감터지는 동영상넣기 // 자기소개 문자하나씩 애니메이션
 
 - 땅에 안착 (framer모션으로 물건 드래그 가능하게)
 
