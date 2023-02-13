@@ -21,7 +21,7 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 0 순서
 - intro (내사진)
 
-- about me (자기소개, 교육, 어떻게 공부해왔는지, 자기어필) // effect -> 원형커지다 원래상태로 오는 효과, 아이폰문구처럼 밑으로 내려가게 하기
+- about me (자기소개, 교육, 어떻게 공부해왔는지, 자기어필) // effect -> 아이폰문구처럼 밑으로 내려가게 하기
 
 - 구름과 비행기(토티) 효과
 
