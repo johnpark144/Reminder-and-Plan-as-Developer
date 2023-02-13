@@ -18,7 +18,7 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 
 
 
-0 순서  // 처음 effect -> 남색공이 왼쪽에서 튀어나와 가운데서 갑자기 커지기 // 전체 effect -> 스크롤 내릴떄마다 1자로 그림그리기 (공부해온 순서 그리기, work부분 점표시)
+0 순서
 - intro (내사진, 인사말) // effect -> 원형커지다 원래상태로 오는 효과, 그안에 Yeonghwan's Portfolio (SVG그리기), 마우스 움직일때마다 별들 움직이게하기, 달(토티플레이어)
 
 - about me (자기소개, 교육, 어떻게 공부해왔는지, 자기어필) // effect -> 자기소개 문자하나씩 애니메이션, 아이폰문구처럼 밑으로 내려가게 하기
