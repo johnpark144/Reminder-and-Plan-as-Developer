@@ -18,7 +18,7 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 
 
 
-0 순서
+0 순서 (글자 타이퍼, 프레머모션 드래그 아이템, 3d, 글씨 )
 - intro (내사진)
 
  // effect -> 
