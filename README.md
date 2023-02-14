@@ -22,10 +22,6 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 - intro (내사진)
 
  // effect -> 
- - skill 및 certificate // effect -> 스크롤시 조금씩
-
-- 구름과 비행기(토티) 효과
-
 - my work : 1 ~ 6 한칸당 두 포트폴리오 (사이트주소(없으면 block), 코드링크, 어필하고자 하는 간단한 설명)
 
 - skill 및 certificate // effect -> 두개큐프 세로로 // 3D등장 //  아이폰문구처럼 밑으로 내려가게 하기
