@@ -14,7 +14,7 @@ Html, C, CS from high school, collage -> Python -> Python(각종라이브러리)
 ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해짐, 상태관리와 서버 데이터 처리의 필요성을 느낌) -> Deploy (파이썬애니웨어, Netflify) -> Redux, ReduxTK -> React Query 
 -> 타입스크립트(박스끌어옮기는 라이브러리 배우게됨) -> NextJS 13 (SSR, 다크모드도 배우게됨) -> MYtube 프로젝트(Nextjs,유튜브API에 익숙,박스끌어넣기, tailwind만사용) -> 맵, 달력 라이브러리
 -> DoorToDoor 프로젝트 (만들고싶어했던 아이디어) -> 각종 useful 라이브러리(애니메이션, 스크롤, 3D 필요한것만 배움) -> 포트폴리오사이트
-앞으로 계획 (테스팅, 리액트네이티브, 자료구조알고리즘, graphql, AWS, 이론공부병행...)
+앞으로 계획 (깃 핵심정보 정리, 테스팅, 리액트네이티브, 자료구조알고리즘, graphql, AWS, Threejs랑 Gsap자세히, 이론공부병행...)
 
 
 
