@@ -34,12 +34,10 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 # 앞으로 계획
 
 - 포폴 사이트 좋은기능들 다엮어 만들기
-- 깃허브 점검 수정, 이력서 수정
+- 깃허브 점검 수정, 즐겨찾기 정리, 이력서 수정
 - 깃 공부하기
 - 깃허브에 쓸만한거 링크 저장
 - 인터뷰준비 및 코테준비 및 공부
-
-- Gather all Before organized.ts 파일 정리
 
 - Meta 프론트엔드 인증서
 - IBM Full Stack Software Developer
