@@ -5,7 +5,7 @@ react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
 ---- 포트폴리오 계획사이트 ----------------------
 
-Yeonghwan's Portfolio
+Yeonghwan's Portfolio (시작일 : 2/10)
 
 0 컨셉 : my Path
 Html, C, CS from high school, collage -> Python -> Python(각종라이브러리) (목표없이해멤) -> Django -> Html, Css 기본, 부트스트랩 -> Jquery(JS보다 먼저배움) -> Django 채팅메시지 -> 
