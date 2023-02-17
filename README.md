@@ -1,7 +1,4 @@
-- 이메일체크, 차
-(나중에 사용해서 만들것 : RelaxJS, ScrollOut, Framer Motion, Email, Animate.css, loader, 실시간기능, next auth, react-hook-form, styled-components,
-react-lottie-player, react-simple-typewriter , GSAP (ScrollTrigger), three js)
-
+(나중에 사용해서 만들것 :   Email, Animate.css, loader, 실시간기능, next auth, react-hook-form, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
 ---- 포트폴리오 계획사이트 ----------------------
 
@@ -16,19 +13,20 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 -> DoorToDoor 프로젝트 (만들고싶어했던 아이디어) -> 각종 useful 라이브러리(애니메이션, 스크롤, 3D 필요한것만 배움) -> 포트폴리오사이트
 앞으로 계획 (깃 핵심정보 정리, 테스팅, 리액트네이티브, 자료구조알고리즘, graphql, AWS, Threejs랑 Gsap자세히, 이론공부병행...)
 
+0 앞으로 남은거
+- portfolio.json 파일 요약한뒤, 포폴 설명 부분 잘 정돈되도록 고치기
+- 차트 옆에 비율에 대해 설명
+- 스크롤색 바꾸기
+- 그림 세로가운데 정렬한뒤, 밑에 깃허브, 사이트주소 연결시키기
+- 타이틀 옆에에 로그인 해야하는 여부
+- 지금까지 PATH 및 certificate 부분 만들고 아이폰문구처럼 밑으로 내려가게 하기 // 3D등장
 
-
-0 순서 (글자 타이퍼, 프레머모션 드래그 아이템, 3d, 글씨 )
-- intro (내사진)
-
-- my work : 1 ~ 6 한칸당 두 포트폴리오 (사이트주소(없으면 block), 코드링크, 어필하고자 하는 간단한 설명)
-
-- 지금까지 PATH 및 certificate // effect -> 두개큐프 세로로 // 3D등장 //  아이폰문구처럼 밑으로 내려가게 하기
-
-- email // effect -> emailjs, react-hook-form 사용, react-simple-typewriter로 마지막 인사말 //  아이폰 물감터지는 동영상넣기 // 자기소개 문자하나씩 애니메이션
-
-- 땅에 안착 (framer모션으로 물건 드래그 가능하게)
-
+마무리
+- 요약동영상에 (Sum-up video for you who are busy) 적기
+- 구름 부분에 풍차같은거 끌어다 놓을수 있도록
+- 맨위에 내사진 및 react-simple-typewriter로 인사말
+- 이메일 (emailjs, react-hook-form)
+- 맨밑에 3D
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
