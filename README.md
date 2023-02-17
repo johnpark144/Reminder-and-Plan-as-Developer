@@ -27,6 +27,8 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 - 맨위에 내사진 및 react-simple-typewriter로 인사말
 - 이메일 (emailjs, react-hook-form)
 - 맨밑에 3D
+- 정신사나운 애니메이션은 지우기
+- 
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
