@@ -14,7 +14,6 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 앞으로 계획 (깃 핵심정보 정리, 테스팅, 리액트네이티브, 자료구조알고리즘, graphql, AWS, Threejs랑 Gsap자세히, 이론공부병행...)
 
 0 앞으로 남은거
-- 스크롤색 바꾸기
 - 지금까지 PATH 및 certificate 부분 만들고 아이폰문구처럼 밑으로 내려가게 하기 // 3D등장
 
 마무리
