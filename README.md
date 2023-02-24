@@ -21,6 +21,7 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 - 맨위에 내사진 및 react-simple-typewriter로 인사말
 - 정신사나운 애니메이션은 지우기
 - 반응형
+- 이력서 수정
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
