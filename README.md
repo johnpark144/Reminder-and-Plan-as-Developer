@@ -13,9 +13,6 @@ ContextAPI, 로컬스토리지, tailwind, map, filter, foreach, reduce 익숙해
 -> DoorToDoor 프로젝트 (만들고싶어했던 아이디어) -> 각종 useful 라이브러리(애니메이션, 스크롤, 3D 필요한것만 배움) -> 스타일컴포넌트 -> 포트폴리오사이트
 앞으로 계획 (깃 핵심정보 정리, 테스팅, 리액트네이티브, 자료구조알고리즘, graphql, AWS, Threejs랑 Gsap자세히, 이론공부병행...)
 
-- 3D 컴퓨터 빙빙돌기
-- 이메일 필수 입력항목 만들기
-- 해변 3d 위치 수정
 - 요약동영상에 (Sum-up video for you who are busy) 적기
 - 구름 부분에 풍차같은거 끌어다 놓을수 있도록
 - 맨위에 내사진 및 react-simple-typewriter로 인사말
