@@ -4,7 +4,6 @@
 
 Yeonghwan's Portfolio (시작일 : 2/10)
 
-- innerHeight 재렌더 하도록 조정
 - 반응형으로 전부 컴퓨터 정면이되게 조정
 - 맨위로 올리는 화살표 꾸미기
 - ContactMe 작은 화면 상태에서 스크롤내릴때 꺾이는 부분 조정
