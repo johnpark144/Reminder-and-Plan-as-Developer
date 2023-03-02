@@ -4,12 +4,13 @@
 
 Yeonghwan's Portfolio (시작일 : 2/10)
 
-- 포트폴리오 사이트 부분 Hardpart 입력
 - 비디오 마이튜브부분 화면 조정
 - skills 글씨 조정 및 박스크기 조정 (반응형)
 - About me 박스크기 조정(반응형)
 - 처음시작 공 반응형으로
 - My Portfolios 글씨크기 및 마진 조정(반응형)
+- 맨밑 3d 반응형 조정
+- contact me myinfo 반응형 사이즈조정
 - certificate 업데이트
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
