@@ -4,10 +4,9 @@
 
 Yeonghwan's Portfolio (시작일 : 2/10)
 
-- 처음시작 공 반응형으로
+- contact me myinfo 반응형 사이즈조정
 - My Portfolios 글씨크기 및 마진 조정(반응형)
 - 맨밑 3d 반응형 조정
-- contact me myinfo 반응형 사이즈조정
 - certificate 업데이트
 
 - 코드정리, 주석, import, 동영상
