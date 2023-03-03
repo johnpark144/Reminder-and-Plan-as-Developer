@@ -11,15 +11,13 @@ Yeonghwan's Portfolio (시작일 : 2/10)
 
 - 3d, 차트 공부 깃허브에 
 - 깃허브 점검 수정(파이어베이스, gather all 등), 즐겨찾기 정리, 이력서 수정
-- 깃 공부하기
+- 깃 자세히 공부하기
+- jest(testing) - 유튜브, 유데미
 - 깃허브에 쓸만한거 링크 저장
 - 인터뷰준비 및 코테준비 및 공부
 
-- Meta 프론트엔드 인증서
-- IBM Full Stack Software Developer
 - HARVARD CS50
 
-- jest(testing) - 유튜브, 유데미
 - Reactnative - 유데미, 코세라
 - graphql - 유튜브
 - Reactnative, graphql 같이 강의 듣고 깃허브 정리
