@@ -45,6 +45,8 @@ Yeonghwan's Portfolio (시작일 : 2/10)
 - threejs
 - blender render script
 - aws
+- Mongo DB
+- Figma
 - node깊게 공부 + express
 
 - 자료구조 알고리즘
