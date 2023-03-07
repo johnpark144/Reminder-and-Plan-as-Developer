@@ -27,7 +27,7 @@ Yeonghwan's Portfolio (시작일 : 2/10)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획 예비
 
-- 쓸만한 API 및 라이브러리 ( RelaxJS, scrollOut, Sanity, notion Api, Gsap scroll,  threejs)
+- 쓸만한 API 및 라이브러리 ( RelaxJS, scrollOut, Sanity, notion Api, Gsap scroll, threejs)
 
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
 
@@ -40,7 +40,7 @@ Yeonghwan's Portfolio (시작일 : 2/10)
 - 넷플, 우버, 챗봇(chatGPT),자동크롤링 사이트, mbti, 각종게임 사이트 : 자음게임, 틱택토, 성격테스트
 - 지금까지 공부한거 코드패턴 사전 사이트
 
-- 스타일컴포넌트, 머티리얼ui
+- 머티리얼ui
 - SVG 그리기
 - nextjs api만들기
 - Gsap (scroll)
@@ -50,7 +50,7 @@ Yeonghwan's Portfolio (시작일 : 2/10)
 - Mongo DB
 - Figma
 - node깊게 공부 + express
-
+- git 더 깊게 공부
 - 자료구조 알고리즘
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
