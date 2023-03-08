@@ -1,10 +1,5 @@
 (나중에 사용해서 만들것 :   Email, Animate.css, loader, 실시간기능, next auth, react-hook-form, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
----- 포트폴리오 계획사이트 ----------------------
-
-Yeonghwan's Portfolio (시작일 : 2/10)
-
-- 동영상, 깃허브 업로드, 배포
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
@@ -27,7 +22,7 @@ Yeonghwan's Portfolio (시작일 : 2/10)
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획 예비
 
-- 쓸만한 API 및 라이브러리 ( RelaxJS, scrollOut, Sanity, notion Api, Gsap scroll, threejs)
+- 쓸만한 API 및 라이브러리 ( RelaxJS, Sanity, notion Api, Gsap scroll, threejs, Draftjs(텍스트에디터),)
 
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
 
