@@ -1,18 +1,17 @@
-(나중에 사용해서 만들것 :   Email, Animate.css, loader, 실시간기능, next auth, react-hook-form, react-simple-typewriter , GSAP (ScrollTrigger), three js)
 
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획
-
-- 3d, 차트 공부 깃허브에 
-- 깃허브 점검 수정(파이어베이스, gather all 등), 즐겨찾기 정리, 이력서 수정
-- 깃 자세히 공부하기
+- 그리드 좀더 정리하기
+- 깃허브 점검 수정(파이어베이스, gather all 등), 즐겨찾기 정리, 이력서 수정, 유용 웹사이트 정리
 - jest(testing) - 유튜브, 유데미
-- 깃허브에 쓸만한거 링크 저장
+- HARVARD CS50와 Web버전
 - 인터뷰준비 및 코테준비 및 공부
 
-- HARVARD CS50
+- 깃 더욱 자세히 공부하기
+- 깃허브에 쓸만한거 링크 저장
 
+- 3d, 차트 공부 깃허브에 
 - Reactnative - 유데미, 코세라
 - graphql - 유튜브
 - Reactnative, graphql 같이 강의 듣고 깃허브 정리
