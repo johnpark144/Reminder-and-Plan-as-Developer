@@ -7,10 +7,14 @@
 - 3d, 차트 공부 깃허브에 정리
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 
+- JS 공부파일(유용함수 위주) 재정리
+
 - 이력서 수정
 - 인터뷰준비 및 코테준비 및 공부
 
 - MYabc 프로젝트 테스트 코드 작성해보기
+
+- Docs 보면서 Html,css -> JS -> 리액트 -> 리덕스 -> 리액트쿼리 -> Nextjs -> RTL,Jest 공부파일 재 정리
 
 - graphql - 유튜브
 - Reactnative - 유데미, 코세라
