@@ -10,6 +10,8 @@
 - 이력서 수정
 - 인터뷰준비 및 코테준비 및 공부
 
+- MYabc 프로젝트 테스트 코드 작성해보기
+
 - graphql - 유튜브
 - Reactnative - 유데미, 코세라
 - Reactnative, graphql 같이 강의 듣고 깃허브 정리
