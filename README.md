@@ -1,27 +1,30 @@
 
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-# 앞으로 계획
+# Priority 계획
 
 - 파일마다 맨위 리마인드 표시 잘하고, 인덱스 비슷하게 표시 (ex) testing library : userEvent, fireEvent, etc ...
 - 3d, 차트 공부 깃허브에 정리
+- 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
+
 - 이력서 수정
 - 인터뷰준비 및 코테준비 및 공부
-- 깃허브에 쓸만한거 링크 저장
-
-- HARVARD CS50와 Web버전
-- 깃 더욱 자세히 공부하기
 
 - graphql - 유튜브
 - Reactnative - 유데미, 코세라
 - Reactnative, graphql 같이 강의 듣고 깃허브 정리
 
-- 차트라이브러리 공부
+- nextjs api만들기
+- Mongo DB
+- aws
+- node깊게 공부 + express
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
-# 앞으로 계획 예비
+# Priority Candidate 계획 (예비)
 
-- 쓸만한 API 및 라이브러리 ( RelaxJS, Sanity, notion Api, Gsap scroll, threejs, Draftjs(텍스트에디터), Swal(alert같은 알림 대화 상자의 기능과 디자인))
+- 쓸만한 API 및 라이브러리 ( Sanity, notion Api, Gsap scroll, threejs, chartjs, Draftjs(텍스트에디터), Swal(alert같은 알림 대화 상자의 기능과 디자인))
+
+- 지금까지 공부한거 코드패턴 사전 사이트
 
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
 
@@ -32,19 +35,15 @@
 - 북마크 정리, 스크린샷 정리
 
 - 넷플, 우버, 챗봇(chatGPT),자동크롤링 사이트, mbti, 각종게임 사이트 : 자음게임, 틱택토, 성격테스트
-- 지금까지 공부한거 코드패턴 사전 사이트
+
+- HARVARD CS50, HARVARD CS50 Web버전
 
 - 머티리얼ui
-- SVG 그리기
-- 웹소켓
-- nextjs api만들기
+- SVG 자세히
 - Gsap (scroll)
 - threejs
 - blender render script
-- aws
-- Mongo DB
 - Figma
-- node깊게 공부 + express
 - git 더 깊게 공부
 - 자료구조 알고리즘
 
