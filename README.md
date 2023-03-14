@@ -1,13 +1,7 @@
-
-
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # Priority 계획
-
-- 파일마다 맨위 리마인드 표시 잘하고, 인덱스 비슷하게 표시 (ex) testing library : userEvent, fireEvent, etc ...
-- 3d, 차트 공부 깃허브에 정리
-- 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
-
 - JS 공부파일(유용함수 위주) 재정리
+- 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 
 - 이력서 수정
 - 인터뷰준비 및 코테준비 및 공부
