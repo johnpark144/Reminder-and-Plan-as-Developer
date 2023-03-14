@@ -21,7 +21,7 @@
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 앞으로 계획 예비
 
-- 쓸만한 API 및 라이브러리 ( RelaxJS, Sanity, notion Api, Gsap scroll, threejs, Draftjs(텍스트에디터),)
+- 쓸만한 API 및 라이브러리 ( RelaxJS, Sanity, notion Api, Gsap scroll, threejs, Draftjs(텍스트에디터), Swal(alert같은 알림 대화 상자의 기능과 디자인))
 
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
 
