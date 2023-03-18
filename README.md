@@ -8,7 +8,6 @@
 
 # Priority 계획
 
-- 테스팅 라이브러리. Jest 보충
 - 리마인더 싹다 돌기
 
 - 이력서 수정
@@ -31,6 +30,7 @@
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # Priority Candidate 계획 (예비)
 
+- 오디오, 비디오 플레이어, 스피치api
 - 쓸만한 API 및 라이브러리 ( Sanity, notion Api, Gsap scroll, threejs, chartjs, Draftjs(텍스트에디터), Swal(alert같은 알림 대화 상자의 기능과 디자인))
 
 - 지금까지 공부한거 코드패턴 사전 사이트
