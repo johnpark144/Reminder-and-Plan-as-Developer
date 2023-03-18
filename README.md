@@ -8,15 +8,14 @@
 
 # Priority 계획
 
-- MYabc 프로젝트 테스트 코드 작성해보기
 - 테스팅 라이브러리. Jest 보충
 - 리마인더 싹다 돌기
 
-- 이력서 수정, 포폴 홈페이지 수정
+- 이력서 수정
 - 인터뷰준비 및 코테준비 및 공부
+
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드
-
 
 - graphql - 유튜브, 노마드
 - Reactnative - 유데미, 코세라
