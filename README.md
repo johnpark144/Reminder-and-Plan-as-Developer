@@ -18,7 +18,7 @@
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드
 
 - graphql - 유튜브, 노마드
-- Reactnative - 유데미, 코세라
+- Reactnative - 유데미
 - Reactnative, graphql 같이 강의 듣고 깃허브 정리
 
 - Docs 보면서 Html,css -> JS -> 리액트 -> 리덕스 -> 리액트쿼리 -> Nextjs -> RTL,Jest 공부파일 재 정리
