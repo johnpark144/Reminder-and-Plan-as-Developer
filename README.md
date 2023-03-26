@@ -58,7 +58,6 @@
 - 자료구조 알고리즘
 - jest cypress 강의
 
-
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 보충공부 해야 할것 (짜투리시간 계획) -> 
 - 장고 : 다대다, 일대일, form, 로그인, 가입, restful Api, authentication, authorization,
