@@ -8,6 +8,7 @@
 
 # Priority 계획
 - 면접대비용 공부 파일 정리한대로 유튜브에 도움될 만한거를 순서대로 재생목록 만들어 놓기
+- 분야별로 혼자 설명해보고 넘어가기
 
 - 테스트코드 비디오
 - 포트폴리오 학교 이름 스펠링 수정
@@ -33,6 +34,7 @@
 # Priority Candidate 계획 (예비)
 
 - 오디오, 비디오 플레이어, 스피치api
+
 - 쓸만한 API 및 라이브러리 ( Sanity, notion Api, Gsap scroll, threejs, chartjs, Draftjs(텍스트에디터), Swal(alert같은 알림 대화 상자의 기능과 디자인))
 
 - 지금까지 공부한거 코드패턴 사전 사이트
