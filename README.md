@@ -15,7 +15,6 @@
 
 - Feature, Issue, workflow, action등 공부하기
 
-- 테스트코드 비디오
 - 이력서 수정 (한국어)
 
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
