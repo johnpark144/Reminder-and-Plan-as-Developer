@@ -6,12 +6,9 @@
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
 # Priority 계획
-- 중요도 순서대로 (3과2같이 -> 어려운거 -> 1 순으로) 나열
-- 두 주제 별로 자세히 외우기
 - 세 주제 별로 대충 빠르게 매일 외우고, Nextjs 복습 동시진행
 
 - Feature, Issue, workflow, action등 공부하기
-
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드
 
