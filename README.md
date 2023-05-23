@@ -7,8 +7,10 @@
 
 - Reactnative 유튜브로 공부
 - 자료구조, 알고리즘 제대로 준비하기
+
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
+- 개발자 툴 제대로 사용하는법, 디버깅 잘하는법
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드
 
 - nextJS 동영상강의로 복습하기
