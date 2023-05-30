@@ -5,7 +5,7 @@
 
 - 포폴 파워포인트 식으로도 만들어보기
 - Reactnative 유튜브로 공부
-- 자료구조, 알고리즘 제대로 준비하기
+- 자료구조, 알고리즘
 
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
