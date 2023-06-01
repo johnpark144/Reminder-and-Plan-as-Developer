@@ -1,6 +1,5 @@
 # Priority 계획
-- 기술면접 이외 것 외우기, 네 주제 별로 대충 빠르게 매일 외우기, Nextjs 복습 동시진행
-- 이력서 컨펌 받기
+- 기술면접 이외 것 외우기, 네 주제 별로 대충 빠르게 매일 외우기, Nextjs 연습한거 깃허브(Next.js, Nextjs_MongoDB_NextAuth)에 정리하고 리파지토리에 있는거 practical study폴더로 이동
 
 - 포폴 파워포인트 식으로도 만들어보기
 - Reactnative 유튜브로 공부
