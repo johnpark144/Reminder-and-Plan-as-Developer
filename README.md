@@ -1,5 +1,5 @@
 # Priority 계획
-- 기술면접 이외 것 외우기, 네 주제 별로 대충 빠르게 매일 외우기, Nextjs 연습한거 깃허브(Next.js, Nextjs_MongoDB_NextAuth)에 정리하고 리파지토리에 있는거 practical study폴더로 이동
+- 기술면접 이외 것 외우기, 네 주제 별로 대충 빠르게 매일 외우기, 다시 영상 보며 Nextjs 연습한거 깃허브(Next.js, Nextjs_MongoDB_NextAuth)에 정리하고 리파지토리에 있는거 practical study폴더로 이동
 
 - Reactnative 유튜브로 공부
 - 자료구조, 알고리즘
