@@ -18,8 +18,8 @@
 - Docs 보면서 Html,css -> JS -> 리액트 -> 리덕스 -> 리액트쿼리 -> Nextjs -> RTL,Jest 공부파일 재 정리
 
 - nextjs api만들기
-- Mongo DB
-- aws
+- Mongo DB + 이미지저장
+- aws serverless + 이미지저장
 - node깊게 공부
 
 
