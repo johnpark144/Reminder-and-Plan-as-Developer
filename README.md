@@ -9,8 +9,6 @@
 - 개발자 툴 제대로 사용하는법, 디버깅 잘하는법
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드, nextjs API부분 사용
 
-- nextJS 동영상강의로 복습하기
-
 - graphql - 유튜브, 노마드
 - Reactnative - 유데미
 - Reactnative, graphql 같이 강의 듣고 깃허브 정리
