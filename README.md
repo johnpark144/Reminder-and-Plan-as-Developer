@@ -2,7 +2,7 @@
 - 기술면접 이외 것 외우기, 네 주제별 매일 외우기, 간단하게 몽고디비랑 nextauth연습
 
 - Reactnative 유튜브로 공부
-- 자료구조, 알고리즘
+- 자료구조, 알고리즘 유데미로 공부
 
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
