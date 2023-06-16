@@ -1,5 +1,5 @@
 # Priority 계획
-- 기술면접 이외 것 외우기, 네 주제별 매일 외우기, 간단하게 몽고디비랑 nextauth연습
+- 기술면접 이외 것 외우기, 네 주제별 매일 외우기
 
 - Reactnative 유튜브로 공부
 - 자료구조, 알고리즘 유데미로 공부 -> 코테준비
@@ -7,7 +7,7 @@
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 - 개발자 툴 제대로 사용하는법, 디버깅 잘하는법
-- 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드, nextjs API부분 사용
+- 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드, nextjs API부분 사용, 몽고디비, nextauth
 
 - graphql - 유튜브, 노마드
 - Reactnative - 유데미
