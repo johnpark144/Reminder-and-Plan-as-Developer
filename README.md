@@ -54,7 +54,6 @@
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 보충공부 해야 할것 (짜투리시간 계획) -> 
-- 장고 : 다대다, 일대일, form, 로그인, 가입, restful Api, authentication, authorization,
 - 자바스크립트, 리액트, NEXTJS : 리듀스, 리덕스, Material UI, axios, React query, for문대신함수, 프로토타입, 호이스팅, 스코프, 클러저,
 컬백, 프로미스, 어싱크어웨이트, this, new, JWT토큰, 여러 라이브러리
 
@@ -64,7 +63,7 @@
 
 # 지금까지한것
 : 파이썬기초, 파이게임, 크롤링(BS4), 웹자동화(셀리니움,requests), 자동화(엑셀,데스크톱),
-장고, html, css, 자바스크립트기초, 리액트, mysql, Redux, Reactquary, Nextjs, 타입스크립트, framer motion, Gsap, 깃, RTL & Jest,
+장고, html, css, 자바스크립트기초, 리액트, mysql, Redux, Reactquary, Nextjs, 타입스크립트, framer motion, Gsap, Git, RTL & Jest,
 
 ######################################################################
 ######################################################################
