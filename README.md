@@ -1,7 +1,8 @@
 # Priority 계획
 - 기술면접 및 이외 것 외우기, 네 주제별 매일 외우기
 
-- Reactnative 유튜브로 공부
+- Reactnative 강의 3개 그리고 프로젝트 (앱에서만 사용할 수 있는 특별한 기능 찾기)
+
 - 자료구조, 알고리즘 유데미로 공부 -> 코테준비
 
 - Feature, Issue, workflow, action등 공부하기
