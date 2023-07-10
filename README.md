@@ -3,7 +3,7 @@
 
 - Reactnative Deliveroo 강의 끝내기
 - Reactnative 리마인더 부분 공부해서 채워넣기 (앱에서만 사용할 수 있는 특별한 기능 찾기)
-- Reactnative 프로젝트
+- Reactnative 프로젝트 (MyABC, Mytube)
 
 - 자료구조, 알고리즘 유데미로 공부 -> 코테준비
 
