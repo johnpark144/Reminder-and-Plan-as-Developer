@@ -5,7 +5,7 @@
 - Reactnative 리마인더 부분 공부해서 채워넣기 (앱에서만 사용할 수 있는 특별한 기능 찾기)
 - Reactnative 프로젝트 (MyABC, Mytube)
 
-- 자료구조, 알고리즘 유데미로 공부 -> 코테준비
+- 자료구조, 알고리즘 유데미로 공부 -> 코테 문제 풀기
 
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
