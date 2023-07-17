@@ -1,8 +1,10 @@
 # Priority 계획
 - 기술면접 및 이외 것 외우기, 세 주제별 매일 외우기
 
-- Reactnative Deliveroo 강의 끝내기
-- Reactnative 리마인더 부분 공부해서 채워넣기 (앱에서만 사용할 수 있는 특별한 기능 찾기)
+- Reactnative Docs보고 정리
+- Reactnative 인덱스 넣기
+- Reactnative 리마인더 부분 공부해서 채워넣기 (앱에서만 사용할 수 있는 특별한 기능 찾기
+
 - Reactnative 프로젝트 (MyABC, Mytube)
 
 - 자료구조, 알고리즘 유데미로 공부 -> 코테 문제 풀기
