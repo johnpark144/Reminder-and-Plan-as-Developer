@@ -59,6 +59,8 @@
 # 📌 구현 해봐야할 기능들 
 : 언어 바꾸기, 뮤직플레이어
 
+<br> <br>
+
 # 📌 지금까지한것
 : 파이썬기초, 파이게임, 크롤링(BS4), 웹자동화(셀리니움,requests), 자동화(엑셀,데스크톱),
 장고, html, css, 자바스크립트기초, 리액트, mysql, Redux, Reactquary, Nextjs, 타입스크립트, framer motion, Gsap, Git, RTL & Jest, 리액트 네이티브
