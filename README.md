@@ -19,7 +19,7 @@
 - 프로젝트들 CI/CD 하기
 - 이력서 수정
 
-
+<br> <br>
 
 
 # 📆 Priority Candidate 계획 (예비)
@@ -54,7 +54,7 @@
 - aws
 - jwt
 
-
+<br> <br>
 
 # 📌 구현 해봐야할 기능들 
 : 언어 바꾸기, 뮤직플레이어
@@ -64,7 +64,7 @@
 장고, html, css, 자바스크립트기초, 리액트, mysql, Redux, Reactquary, Nextjs, 타입스크립트, framer motion, Gsap, Git, RTL & Jest, 리액트 네이티브
 
 
-
+<br> <br>
 
 # 🎸 기타
 - 자소서쓸때 회사이름 적으면 좋음,
