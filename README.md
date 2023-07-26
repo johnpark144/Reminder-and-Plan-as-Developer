@@ -1,7 +1,5 @@
 # Priority 계획
-- 기술면접 및 이외 것 외우기, 세 주제별 매일 외우기
-
-- Reactnative 공부 정리한거 인덱스 넣기
+- 기술면접 및 이외 것 외우기, 두 주제별 매일 외우기
 - Reactnative 프로젝트 (MyABC, Mytube)
 
 - 자료구조, 알고리즘 유데미로 공부 -> 코테 문제 풀기
@@ -9,19 +7,17 @@
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 - 개발자 툴 제대로 사용하는법, 디버깅 잘하는법
+- Node, express, mongoDB, Aws, graphql
+  
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드, nextjs API부분 사용, 몽고디비, nextauth
 
-- graphql - 유튜브, 노마드
-- Reactnative - 유데미
-- Reactnative, graphql 같이 강의 듣고 깃허브 정리
+- Docs 보면서 Html,css -> JS -> 리액트 -> 리덕스 -> 리액트쿼리 -> Nextjs -> RTL,Jest 공부파일 재 정리 -> 리액트 네이티브 -> Expo
 
-- Docs 보면서 Html,css -> JS -> 리액트 -> 리덕스 -> 리액트쿼리 -> Nextjs -> RTL,Jest 공부파일 재 정리
-
-- nextjs api만들기
 - Mongo DB + 이미지저장
 - aws serverless + 이미지저장
-- node깊게 공부
 
+- 프로젝트들 CI/CD 하기
+- 이력서 수정
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # Priority Candidate 계획 (예비)
@@ -53,6 +49,8 @@
 - git 더 깊게 공부
 - 자료구조 알고리즘
 - jest cypress 강의
+- aws
+- jwt
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 # 보충공부 해야 할것 (짜투리시간 계획) -> 
