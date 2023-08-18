@@ -1,12 +1,13 @@
 # 💭 Priority 계획
-- 리액트네이티브로 MYabc
-  -- 웹용 오류 점검
 
 - 기술면접 및 이외 것 외우기, 두 주제별 매일 외우기
-- Reactnative 프로젝트 (MyABC, Mytube) ---> 프로젝트에서 알게된것 다시 정리하여 적어두기
+- Reactnative 프로젝트 (MyABC) ---> 프로젝트에서 알게된것 다시 정리하여 적어두기
 - 이력서 점검
-- 테스트 아이디 비번 적어두기
+
 - 자료구조, 알고리즘 (자바스크립트) 유데미로 공부 -> 코테 100 문제 풀기
+
+- 프로젝트들 CI/CD 하기 (테스트 아이디 비번 적어두기, myabc 웹용 오류 점검, myabc 단어 수정 기능)
+
 
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
@@ -19,9 +20,6 @@
 
 - Mongo DB + 이미지저장
 - aws serverless + 이미지저장
-
-- 프로젝트들 CI/CD 하기
-- 이력서 수정
 
 <br> <br>
 
