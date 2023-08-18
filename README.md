@@ -21,6 +21,7 @@
 - Mongo DB + 이미지저장
 - aws serverless + 이미지저장
 
+- Justand 아니면 recoil도 배우기
 <br> <br>
 
 
