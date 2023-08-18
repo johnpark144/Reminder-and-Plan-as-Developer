@@ -1,13 +1,12 @@
 # 💭 Priority 계획
+- Reactnative 프로젝트 (MyABC) ------> 주석달기, 쓸떄없는거 지우기, 클린코드 만들기, 프로젝트에서 알게된것 다시 정리하여 적어두기, 주석 점검
+- 프로젝트들 CI/CD 하기 (테스트 아이디 비번 적어두기, myabc 웹용 오류 점검, myabc 단어 수정 기능)
+- 깃허브 Introduce 다시 꾸미기
 
 - 기술면접 및 이외 것 외우기, 두 주제별 매일 외우기
-- Reactnative 프로젝트 (MyABC) ---> 프로젝트에서 알게된것 다시 정리하여 적어두기
 - 이력서 점검
 
 - 자료구조, 알고리즘 (자바스크립트) 유데미로 공부 -> 코테 100 문제 풀기
-
-- 프로젝트들 CI/CD 하기 (테스트 아이디 비번 적어두기, myabc 웹용 오류 점검, myabc 단어 수정 기능)
-
 
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
