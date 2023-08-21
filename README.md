@@ -8,7 +8,7 @@
 
 - 자료구조, 알고리즘 (자바스크립트) 유데미로 공부 -> 코테 100 문제 풀기
 
-- 다른 프로젝트 CI/CD 하기 
+- 다른 프로젝트 CI/CD 하기 (에러처리 등)
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 - 개발자 툴 제대로 사용하는법, 디버깅 잘하는법
