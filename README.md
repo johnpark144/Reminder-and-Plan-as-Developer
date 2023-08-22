@@ -1,6 +1,7 @@
 # 💭 Priority 계획
-- Reactnative 프로젝트 (MyABC) ------> 배포하기, 동영상찍기 및 ReadMe정리
+- Reactnative 프로젝트 (MyABC) ------> 동영상찍기 및 ReadMe정리
 
+- mytube 에러 고치기
 - 깃허브 Introduce 다시 꾸미기
 - 포폴사이트 업데이트 및 이력서 점검
 
