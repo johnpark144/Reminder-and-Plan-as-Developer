@@ -9,7 +9,7 @@
 - 기술면접 및 이외 것 외우기, 두 주제별 매일 외우기
 - myabc 프로젝트 CI/CD 하기 (테스트 아이디 비번 적어두기, 웹용 오류 점검, 단어 수정 기능, swr아니면 리액트 쿼리 도입 해서 로딩 관리, 데이터를 미리 불러와서 로딩 체감을 줄이도록, 이미지 미리 불러와서 깜박이는 현상 줄이기, AuthContext 줄이기 )
 
-- 다른 프로젝트 CI/CD 하기 (에러처리, 시멘틱태그, 이미지 최적화, lazy와 Suspense, usecallback와 useMemo 등)
+- 다른 프로젝트 CI/CD 하기 (에러처리, 시멘틱태그, 이미지 최적화, 코드스플리팅 - lazy와 Suspense, 렌더링 최적화 - usecallback와 useMemo 등)
 
 - Feature, Issue, workflow, action등 공부하기
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
