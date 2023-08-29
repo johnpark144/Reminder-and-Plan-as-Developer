@@ -25,7 +25,7 @@
 - 프로젝트 공통 ➡️ (에러처리, 시멘틱태그, 이미지 최적화, 코드스플리팅 - lazy와 Suspense, 렌더링 최적화 - usecallback와 useMemo 등)
 - myabc ➡️ (테스트 아이디 비번 적어두기, 웹용 오류 점검, 단어 수정 기능, swr아니면 리액트 쿼리 도입 해서 로딩 관리, 데이터를 미리 불러와서 로딩 체감을 줄이도록, 이미지 미리 불러와서 깜박이는 현상 줄이기, AuthContext 줄이기 )
 - mytube ➡️ (로컬에서 에러가 심해서 다시 만들기, next/font 빌트인 되있는 라이브러리로 변경, Home UI 예쁘게 변경, 페이지 폴더와 컴포넌트 폴더 분리)
-- StillSteal ➡️ (카테고리 부분 작은디바이스에 여전이 공간있음, AboutUs안에 사진 크기조정, Css제거후 Tailwind로 완전히 옮기기, 지저분한 코드 리팩토링하기)
+- StillSteal ➡️ ( Css제거후 Tailwind로 완전히 옮기기, 지저분한 코드 리팩토링하기)
 
 - 
 # 📆 Priority Candidate 계획 (예비)
