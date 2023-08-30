@@ -51,6 +51,7 @@
 - SVG 자세히
 - Gsap (scroll)
 - threejs
+- D3 (데이터 시각화)
 - blender render script
 - Figma
 - git 더 깊게 공부
