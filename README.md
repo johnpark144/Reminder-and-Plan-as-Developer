@@ -32,8 +32,6 @@
 
 - 쓸만한 API 및 라이브러리 ( Sanity, notion Api, Gsap scroll, threejs, chartjs, Draftjs(텍스트에디터), Swal(alert같은 알림 대화 상자의 기능과 디자인))
 
-- 지금까지 공부한거 코드패턴 사전 사이트 (블로그 식으로)
-
 - 미용실 예약 사이트 : Calendar Date Picker, 지도
 
 - 프로젝트와 연습한것들 Basicstudy readme에 주요 라이브러리, 구현내용 및 설명들을 요약해서 한페이지에 배열형식으로 정리해서 적어두기(라이브러리 및 툴)
@@ -43,8 +41,6 @@
 - 북마크 정리, 스크린샷 정리
 
 - 넷플, 우버, 챗봇(chatGPT),자동크롤링 사이트, mbti, 각종게임 사이트 : 자음게임, 틱택토, 성격테스트
-
-- HARVARD CS50, HARVARD CS50 Web버전
 
 - 머티리얼ui
 - SVG 자세히
