@@ -1,13 +1,13 @@
 # 💭 Priority 계획
 - 지원 하기
-- 자료구조, 알고리즘 (자바스크립트) 유데미로 공부 -> 코테 100 문제 풀기
-- 기술면접 및 이외 것 외우기, 두 주제별 매일 외우기
+- 자료구조, 알고리즘 (자바스크립트) 유데미로 공부 -> 코테 100 문제 풀기 or Greatfrontend 가입해서 공부하기
+- 기술면접 및 이외 것 외우기, 두 주제별 매일 외우기  -> 영어로 변경
 - 개발자용 영어단어 외우기
 
-- Feature, Issue, workflow, action등 공부하기
+- Node, express, mongoDB, Aws, graphql, Figma, Justand
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
+- Feature, Issue, workflow, action등 공부하기
 - 개발자 툴 제대로 사용하는법, 디버깅 잘하는법
-- Node, express, mongoDB, Aws, graphql, Figma
 
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드, nextjs API부분 사용, 몽고디비, nextauth, Sanity, 
 
@@ -16,7 +16,6 @@
 - Mongo DB + 이미지저장
 - aws serverless + 이미지저장
 
-- Justand 아니면 recoil도 배우기
 <br> <br>
 
 # ♻ CI/CD 계획
@@ -39,8 +38,6 @@
 - 기존에 있는 basicstudy 파일들 요약해서 사용하기 좋게 바꾸기
 
 - 북마크 정리, 스크린샷 정리
-
-- 넷플, 우버, 챗봇(chatGPT),자동크롤링 사이트, mbti, 각종게임 사이트 : 자음게임, 틱택토, 성격테스트
 
 - 머티리얼ui
 - SVG 자세히
