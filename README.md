@@ -7,7 +7,7 @@
 - Node, express, mongoDB, Aws, graphql, Figma, Justand
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 - Feature, Issue, workflow, action등 공부하기
-- 개발자 툴 제대로 사용하는법, 디버깅 잘하는법
+- 개발자 툴, 디버깅 잘하는법
 
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드, nextjs API부분 사용, 몽고디비, nextauth, Sanity, 
 
