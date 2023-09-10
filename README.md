@@ -9,7 +9,7 @@
 - Feature, Issue, workflow, action등 공부하기
 - 개발자 툴, 디버깅 잘하는법
 
-- 연습해볼것 : 차트, 테스트, usecallback, usememo, 그리드, nextjs API부분 사용, 몽고디비, nextauth, Sanity, 
+- 연습해볼것 : 차트, 테스트, usecallback, usememo, React.lazy()와 Suspense, useTransition, useDeferredValue ,그리드, nextjs API부분 사용, 몽고디비, nextauth, Sanity, 
 
 - Docs 보면서 Html,css -> JS -> 리액트 -> 리덕스 -> 리액트쿼리 -> Nextjs -> RTL,Jest 공부파일 재 정리 -> 리액트 네이티브 -> Expo
 
