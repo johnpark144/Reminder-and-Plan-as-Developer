@@ -1,8 +1,12 @@
 # 💭 Priority 계획
 - 지원 하기
-- 코테 100 문제 풀기 or Greatfrontend 가입해서 공부하기
+- Greatfrontend 3개월 플랜 끝내기
+- 영어 질문이해하기
+
+- Greatfrontend 모든 문제 끝내기
+- 리트코드 코테 liked 100, 인터뷰 150 문제 풀기
 - 기술면접 및 이외 것 외우기, 두 주제별 매일 외우기  -> 영어로 변경
-- 개발자용 영어단어 외우기
+- 개발자 영단어
 
 - Node, express, mongoDB, Aws, graphql, Figma, Justand
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
