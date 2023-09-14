@@ -1,6 +1,6 @@
 # 💭 Priority 계획
 - 지원 하기
-- Greatfrontend 3개월 플랜 끝내기
+- Greatfrontend 3개월 플랜 끝내기 (14까지 함)
 - 영어 질문이해하기
 
 - Greatfrontend 모든 문제 끝내기
