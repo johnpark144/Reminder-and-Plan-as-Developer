@@ -1,7 +1,7 @@
 # 💭 Priority 계획
 - 지원 하기
 - Greatfrontend 3개월 플랜 끝내기 (24까지 함)
-- 영어 질문 이해하기
+- 영어 질문 이해 후 설명
 
 - Greatfrontend 모든 문제 끝내기
 - 리트코드 코테 liked 100, 인터뷰 150 문제 풀기
