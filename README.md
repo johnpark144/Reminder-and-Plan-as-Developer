@@ -20,6 +20,8 @@
 - Mongo DB + 이미지저장
 - aws serverless + 이미지저장
 
+- 코드리뷰 및 오픈소스 참여
+
 <br> <br>
 
 # ♻ CI/CD 계획
