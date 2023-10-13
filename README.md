@@ -1,5 +1,4 @@
 # 💭 Priority 계획
-- 지원 하기
 - 영어 질문 이해
 
 - Greatfrontend 모든 문제 끝내고 반복
