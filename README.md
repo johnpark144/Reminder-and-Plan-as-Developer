@@ -14,6 +14,7 @@
 - Feature, Issue, workflow, action등 공부하기
 - 개발자 툴, 디버깅 잘하는법
 - SEO
+- 디자인 패턴
 
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, React.lazy()와 Suspense, useTransition, useDeferredValue ,그리드, nextjs API부분 사용, 몽고디비, nextauth, Sanity, 
 
