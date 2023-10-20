@@ -3,13 +3,14 @@
 - 코테연습 : 0
 
 # 💭 Priority 계획
-- 이론 공부 부분 및 Greatfrontend 모든 문제 5개씩 반복
+- 이론 공부, 코테연습 5개씩 반복
 
 - 리트코드 코테 75
 
 - 자바스크립트 유용한 함수 외워보고 정리하기
 - 이론스터디에서 배운 유용한것들 --> 실전스터디 리마인드에 정리 --> 리마인드 적어둔거 업데이트하기
 
+- 장모님 예약 사이트
 - Node, express, mongoDB, Aws, graphql, Figma, Justand
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 - Feature, Issue, workflow, action등 공부하기
@@ -18,7 +19,6 @@
 - 디자인 패턴
 
 - 연습해볼것 : 차트, 테스트, usecallback, usememo, React.lazy()와 Suspense, useTransition, useDeferredValue ,그리드, nextjs API부분 사용, 몽고디비, nextauth, Sanity, 
-
 - Docs 보면서 Html,css -> JS -> 리액트 -> 리덕스 -> 리액트쿼리 -> Nextjs -> RTL,Jest 공부파일 재 정리 -> 리액트 네이티브 -> Expo
 
 - Mongo DB + 이미지저장
@@ -78,6 +78,7 @@
 # 🎸 기타
 - 자소서쓸때 회사이름 적으면 좋음,
 - 자소서 컬러나 이미지를 회사 로고와 비슷하게
+- 리쥬매, 잡포스터 키워드 일치시키기
 
 - 파이어베이스를 통해 데이터를 주고받을때 어떻게 테스트하는지 공부
 - react-router-dom으로인해 테스트하려면 햇갈리는데 어떻게 해결할지 공부
