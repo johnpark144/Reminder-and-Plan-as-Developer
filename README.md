@@ -12,6 +12,7 @@
 - 장모님 예약 사이트
 - Node, express, mongoDB, Aws, graphql, Figma, Justand
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
+- SOAP
 - Feature, Issue, workflow, action등 공부하기
 - 개발자 툴, 디버깅 잘하는법
 - SEO
