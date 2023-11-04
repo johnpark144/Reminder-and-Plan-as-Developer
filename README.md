@@ -10,7 +10,7 @@
 - 이론스터디에서 배운 유용한것들 --> 실전스터디 리마인드에 정리 --> 리마인드 적어둔거 업데이트하기
 
 - 장모님 예약 사이트
-- Node, express, mongoDB, Aws, graphql, Figma, Justand
+- Node랑 express같이, mongoDB, Aws, graphql, Figma, Justand
 - 줌 클론코딩 강의(WebSockets, SocketIO, WebRTC 에대해 자세히 배우기)
 - SOAP
 - Feature, Issue, workflow, action등 공부하기
